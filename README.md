@@ -85,11 +85,13 @@ df.head()
 ![image](https://github.com/Vaish-1011/ODD2023-Datascience-Ex01/assets/135130074/62ed5b96-5315-4cbc-a587-d57fae0dbe3b)
 df['Loan_Amount_Term']=df['Loan_Amount_Term'].fillna(df['Loan_Amount_Term'].mean())
 df.head()
+```
 ![image](https://github.com/Vaish-1011/ODD2023-Datascience-Ex01/assets/135130074/beabdc8a-656f-4a7c-a088-5dc1daf5daef)
+```
 df['Credit_History']=df['Credit_History'].fillna(df['Credit_History'].mean())
 df.head()
-![image](https://github.com/Vaish-1011/ODD2023-Datascience-Ex01/assets/135130074/a46cde82-e89f-4d77-b307-53427c3d1af8)
-![Screenshot 2023-08-26 084901](https://github.com/Vaish-1011/ODD2023-Datascience-Ex01/assets/135130074/0dc55199-f1d1-48ad-9ebd-68b3bff07f5a)
 ```
+![image](https://github.com/Vaish-1011/ODD2023-Datascience-Ex01/assets/135130074/a46cde82-e89f-4d77-b307-53427c3d1af8)
+
 
 
