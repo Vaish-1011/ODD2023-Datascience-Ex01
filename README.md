@@ -137,7 +137,5 @@ df.head()
 ```
 ![image](https://github.com/Vaish-1011/ODD2023-Datascience-Ex01/assets/135130074/a46cde82-e89f-4d77-b307-53427c3d1af8)
 
-## Result
-To read the given data and perform data cleaning and save the cleaned data to a file. 
-
+# Result
 Thus data set is cleaned successfully
